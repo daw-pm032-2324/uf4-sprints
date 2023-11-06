@@ -4,8 +4,10 @@
 
 Goals: Java Review
 
-## Spring 1
+## Sprint 1
 
 Goals: OOP. Abstraction and Encapsulation
 
+## Sprint 2
 
+Goals: OOP. Composition and dependencies
