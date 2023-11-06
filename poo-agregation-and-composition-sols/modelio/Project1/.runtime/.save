@@ -1,0 +1,7 @@
+#Mon Nov 06 11:02:40 UTC 2023
+org.modelio.app.module.propertytab.GPart\ [id\='JavaDesigner',\ version\='5.3.00',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.app.module.propertytab.GPart\ [id\='JavaDesigner',\ version\='5.3.00',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_.org.modelio.app.ui.model.perspective.parentId=org.modelio.app.bottom.parts
+org.modelio.app.diagram.editor.OpenedDiagrams0='project1 Optica' {13d7d184-29de-4e0c-9134-29f446b5fd55} Standard.ClassDiagram
+org.modelio.app.module.propertytab.GPart\ [id\='JavaDesigner',\ version\='5.3.00',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_.org.modelio.full.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.app.diagram.editor.OpenedDiagrams1='project1 Pizzeria' {a1252012-2146-4640-9795-35085dc8ec76} Standard.ClassDiagram
+org.modelio.app.module.propertytab.GPart\ [id\='JavaDesigner',\ version\='5.3.00',\ type\='MODULE',\ definitionScope\='LOCAL',\ state\='MOUNTED']\ runtime\ module_.org.modelio.diagram.perspective.parentId=app.ui.ext_com.partstack.right

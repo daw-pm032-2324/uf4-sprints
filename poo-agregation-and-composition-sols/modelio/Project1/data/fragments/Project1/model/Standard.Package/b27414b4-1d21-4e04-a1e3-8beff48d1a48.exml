@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="com.pluralcamp.business.optica.entities" version="4">
+  <OBJECT>
+    <ID name="com.pluralcamp.business.optica.entities" mc="Standard.Package" uid="b27414b4-1d21-4e04-a1e3-8beff48d1a48"/>
+    <PID name="project1" mc="Standard.Package" uid="2762845d-3dd1-494f-b56e-a65728f24be1"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[com.pluralcamp.business.optica.entities]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Ulleres" mc="Standard.Class" uid="8a395565-cd60-41ea-ab9e-a85f6ac332eb"/>
+        <COMPID name="TipusMuntura" mc="Standard.Class" uid="85138975-51bc-4565-a701-0014cf824a0e"/>
+        <COMPID name="Client" mc="Standard.Class" uid="33e78d68-f858-49a9-92fd-a0d9addba0cf"/>
+        <COMPID name="Empleat" mc="Standard.Class" uid="dd27ea81-258f-4011-8494-ba77d0f3dd56"/>
+        <COMPID name="Marca" mc="Standard.Class" uid="9a078e4e-771c-4205-a402-3119622f4e12"/>
+        <COMPID name="Proveidor" mc="Standard.Class" uid="6862ae74-3de4-47a0-921f-afd71b64a867"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

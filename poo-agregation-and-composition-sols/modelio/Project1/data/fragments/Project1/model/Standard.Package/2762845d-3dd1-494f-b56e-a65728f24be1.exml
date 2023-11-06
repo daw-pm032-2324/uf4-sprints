@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="project1" version="4">
+  <OBJECT>
+    <ID name="project1" mc="Standard.Package" uid="2762845d-3dd1-494f-b56e-a65728f24be1"/>
+    <PID name="Project1" mc="Standard.Project" uid="0cc42591-722e-4fe9-ace0-b4c840c6ec6b"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[project1]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="com.pluralcamp.business.optica.entities" mc="Standard.Package" uid="b27414b4-1d21-4e04-a1e3-8beff48d1a48"/>
+        <COMPID name="com.pluralcamp.business.pizzeria.entities" mc="Standard.Package" uid="dd38bb40-a411-43b5-baa8-69301f8c802d"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="project1 Optica" mc="Standard.ClassDiagram" uid="13d7d184-29de-4e0c-9134-29f446b5fd55"/>
+        <COMPID name="project1 Pizzeria" mc="Standard.ClassDiagram" uid="a1252012-2146-4640-9795-35085dc8ec76"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
