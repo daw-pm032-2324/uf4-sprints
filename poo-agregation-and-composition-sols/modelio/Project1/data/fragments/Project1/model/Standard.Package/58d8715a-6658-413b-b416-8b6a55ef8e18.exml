@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="com.pluralcamp.business.spotify.entities" version="4">
+  <OBJECT>
+    <ID name="com.pluralcamp.business.spotify.entities" mc="Standard.Package" uid="58d8715a-6658-413b-b416-8b6a55ef8e18"/>
+    <PID name="project1" mc="Standard.Package" uid="2762845d-3dd1-494f-b56e-a65728f24be1"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[com.pluralcamp.business.spotify.entities]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Usuari" mc="Standard.Class" uid="849aab2b-2ffd-44f8-bddc-d31f888e6e02"/>
+        <COMPID name="TipusUsuari" mc="Standard.Class" uid="fab6856e-4a0f-4f42-b35d-e8ed48d19693"/>
+        <COMPID name="Subscripcio" mc="Standard.Class" uid="7bb097ed-2124-4696-93d6-32ac5afdcedd"/>
+        <COMPID name="Artista" mc="Standard.Class" uid="b35e97e0-2502-4e20-9637-b250d5d1ab7b"/>
+        <COMPID name="Blob" mc="Standard.Class" uid="5ad64d41-04df-4f01-a306-d1d7e1c9e191"/>
+        <COMPID name="Album" mc="Standard.Class" uid="78709035-cf61-4718-aab2-62c8ed985f6e"/>
+        <COMPID name="Canço" mc="Standard.Class" uid="67338def-25eb-4a91-b1d9-90a5e8a5519a"/>
+        <COMPID name="LlistaReproduccio" mc="Standard.Class" uid="24453a1f-6ca6-4c6d-bb10-917be6f002e0"/>
+        <COMPID name="LlistaCompartida" mc="Standard.Class" uid="0bdaec57-43b3-47a5-bc6c-e4b44affea7b"/>
+        <COMPID name="CançoCompartida" mc="Standard.Class" uid="9b0a2196-92f7-411f-8827-95f41a43b0e7"/>
+        <COMPID name="Pagament" mc="Standard.Class" uid="ff45be54-b4d4-4e6a-b492-c68d06019ea5"/>
+        <COMPID name="FormaPagament" mc="Standard.Class" uid="ce259590-1283-444f-b79c-9253951fa2a1"/>
+        <COMPID name="Targeta" mc="Standard.Class" uid="5d5d5fcd-fb45-4e9b-934c-e856a296e8d6"/>
+        <COMPID name="Paypal" mc="Standard.Class" uid="512b9e9f-ad16-418f-8956-715d0c216937"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

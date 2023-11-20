@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="com.pluralcamp.business.youtube.entities" version="4">
+  <OBJECT>
+    <ID name="com.pluralcamp.business.youtube.entities" mc="Standard.Package" uid="bad1adcc-18d9-4cf1-8bc8-4f1759142ce3"/>
+    <PID name="project1" mc="Standard.Package" uid="2762845d-3dd1-494f-b56e-a65728f24be1"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[com.pluralcamp.business.youtube.entities]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Video" mc="Standard.Class" uid="26ff84d8-4c83-4528-a439-0a6e2b619a35"/>
+        <COMPID name="Blob" mc="Standard.Class" uid="d717d521-7841-4ab4-ae6a-af047a752754"/>
+        <COMPID name="Usuari" mc="Standard.Class" uid="e9184934-1e1b-444c-af59-cc05df007fe8"/>
+        <COMPID name="TipusValoracio" mc="Standard.Class" uid="7ca2650d-79d5-4f6c-a61a-b1556b09dfcd"/>
+        <COMPID name="ValoracioVideo" mc="Standard.Class" uid="a4f89cab-1862-4f0f-9fb0-0d87fffd6d1c"/>
+        <COMPID name="EstatVideo" mc="Standard.Class" uid="d2e7870d-5bd3-4035-94b0-580d1d60e501"/>
+        <COMPID name="Etiqueta" mc="Standard.Class" uid="76fc2312-1a0b-438e-9c37-a3b0f93cb167"/>
+        <COMPID name="Comentari" mc="Standard.Class" uid="832e9bcf-ca59-4f8a-8ff9-5680e374a90c"/>
+        <COMPID name="ValoracioComentari" mc="Standard.Class" uid="436392ab-a161-48d7-b7c5-72fc66c2443c"/>
+        <COMPID name="Canal" mc="Standard.Class" uid="bd0bc44f-f464-4595-94ea-08f997ff98a4"/>
+        <COMPID name="LlistaReproduccio" mc="Standard.Class" uid="b844577a-9ad7-43f4-aed8-3d2fccb727c9"/>
+        <COMPID name="EstatLLlistaReproduccio" mc="Standard.Class" uid="bc0be1ef-4b99-4d5d-ae2a-f14731bd883b"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
