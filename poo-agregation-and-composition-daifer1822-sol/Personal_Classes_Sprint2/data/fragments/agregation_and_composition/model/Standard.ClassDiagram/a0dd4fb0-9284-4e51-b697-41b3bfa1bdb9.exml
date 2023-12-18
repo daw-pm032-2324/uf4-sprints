@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="cat.ilg.business.youtube.entities (DependencyDiagramTemplate)" version="4">
+  <OBJECT>
+    <ID name="cat.ilg.business.youtube.entities (DependencyDiagramTemplate)" mc="Standard.ClassDiagram" uid="a0dd4fb0-9284-4e51-b697-41b3bfa1bdb9"/>
+    <PID name="agregation_and_composition" mc="Standard.Package" uid="d6503afc-d349-42df-b491-554cb970eaa6"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">3</ATT>
+      <ATT name="UiData"><![CDATA[eJztWe9T2jAY/ld6vX3YPlBaKCiTuVPKOU9UDnV3+8SlzQtmpgmXpNPur19Ci9OCWBDdduMTJWmevD+e531DaH++i6n1A4QknH2yPce1rc/77fPwO0TKIlgP2ZZKJ/DJ5mLsxBwDJdxJYupIhRS5wQSNBYodwERx4QCFGJiS2Ww0mz2KL6bfg+y7bcXoOxfD+31de7/dF3wCQqUWQ7HejqKUJypACum5r4gmkNvBEkrt6n67Olswt/RCpRTsR17UFnkxs06a96UTcQFOtraEfR0kI4QBzzbr3qkBjErucqYh8pUW3KkgPNY2Th/NQ4eHiKqCj9XMm2V+C6BIAdZmFEJ2aoasH2bERAcxjAR2OhRJmWfEQi7G/ih0K63arl/xoeFVwmZrp+J7YT0cIS/EYWt51DWaOmH8lvVQCLRgwYUShI3t/Qgph9CxEyaSMJDSMUlOQnA0aYgiIK33AUyAYWBRmtt2CfHEOPahXZ1CLg0Bp3DMOjyecKnxOHvCjhJQnWtCsQCD0CNSPaJTfT1RTFB0g36ClkPfPI3nieatIISBtgaxseFQntpaw93zfHevXnf3ak13ZZX4/5JKYkTYcg/7B52Tg6PucNDtn54H3UL4uiyJP5Zy9ATSdwOYCJA6i8iw6lQv+S2oy8FV5/Jq0A1eXbI5baxaaxd2aj6uQFML1Xe9eiUEH1WaHkRRo1YPG61nsr8Ztf49imxsSJF9QWIk0rNpgl/QpebF6e4ZYXpamN7KwmyWFaaGukvXVqeRZlYHtkRem8inui4Z+ryQ0DvrEdoAS81quAadWaGJfTYb+TIdefuz1+7bkre5Je/65M1YUwJQXvPbIYnmgA653gmx+6CNEJWwPAhTqBtIb7nAG0BTOjtDqUAAfwZNiaSMaXRBblaHQqFUAkVqDQ/vGfxAVK0N9btDjtO3Lwmeu60J/0xNCDVF1mlm1fxjUdifnnrIkoV3D/fUnnE64nHMmTOVafZWPqVZHsAIJVSZ8zrtZqNZWF9C+WOmYGw6aU6C4nGpBP9L30dsD3R/nP/6B4F2zCTJ+q/aY1nb1uyPZYrB/FTBgB5hN3JJxSm8fjgOBLrVWe2hVAv4sSYXXurMVRucAUhdb9Lp+foR4tt00tVW/dlrQVIk7UxWwZHTO/jWHQwPDzonR4Pzq7Ng013mSZSHOftNn4dkWHoVtiXDq5Hh8rz/6meNAljhzwknz9czTb94iTPb7xcR6eK0]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,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]]></ATT>
+      <ATT name="Name"><![CDATA[cat.ilg.business.youtube.entities (DependencyDiagramTemplate)]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="cat.ilg.business.youtube.entities" mc="Standard.Package" uid="298e724d-e651-4013-be4a-61ecc523b590"/>
+      </LINK>
+      <LINK relation="Extension">
+        <FOREIGNID name="AutoDiagram" mc="Infrastructure.Stereotype" uid="8fb43b1c-7819-11e1-a4f1-002564c97630"/>
+      </LINK>
+      <COMP relation="Properties">
+        <OBJECT>
+          <ID name="AutoDiagram" mc="Infrastructure.PropertyTable" uid="eedfb525-f887-4d19-9009-88617ddd4f7a"/>
+          <ATTRIBUTES>
+            <ATT name="Name"><![CDATA[AutoDiagram]]></ATT>
+            <ATT name="Content"><![CDATA[#Mon Oct 30 23:54:30 CET 2023
+Kind=DependencyDiagramTemplate
+]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES></DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="agregation_and_composition" version="4">
+  <OBJECT>
+    <ID name="agregation_and_composition" mc="Standard.Project" uid="f00a4f2d-579e-4da0-b043-1de92e930bc1"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[agregation_and_composition]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="agregation_and_composition" mc="Standard.Package" uid="d6503afc-d349-42df-b491-554cb970eaa6"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="agregation_and_composition" mc="Infrastructure.DiagramSet" uid="b2ddf63c-7136-441f-86ba-fb3c6e60121b"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

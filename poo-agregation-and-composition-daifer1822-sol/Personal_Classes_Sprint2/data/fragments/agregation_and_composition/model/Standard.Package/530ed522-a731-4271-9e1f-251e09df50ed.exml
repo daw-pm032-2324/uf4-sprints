@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="cat.ilg.business.optica.entities" version="4">
+  <OBJECT>
+    <ID name="cat.ilg.business.optica.entities" mc="Standard.Package" uid="530ed522-a731-4271-9e1f-251e09df50ed"/>
+    <PID name="agregation_and_composition" mc="Standard.Package" uid="d6503afc-d349-42df-b491-554cb970eaa6"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[cat.ilg.business.optica.entities]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Client" mc="Standard.Class" uid="877be896-156c-47b1-bd2a-8e4b35fb7708"/>
+        <COMPID name="Sale" mc="Standard.Class" uid="45a97f1c-ba2b-45d1-9406-df23eec2e37a"/>
+        <COMPID name="Employee" mc="Standard.Class" uid="567b2ff2-23d1-47b6-be9d-8b4334c5c7c3"/>
+        <COMPID name="Glasses" mc="Standard.Class" uid="d085d285-3670-4a2a-9c5b-ad4180f79ab6"/>
+        <COMPID name="Provaider" mc="Standard.Class" uid="6ea8a9f6-89dd-4e4f-84bb-8c4994e1c878"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

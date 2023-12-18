@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="cat.ilg.business.pizzeria.entities" version="4">
+  <OBJECT>
+    <ID name="cat.ilg.business.pizzeria.entities" mc="Standard.Package" uid="a308a0ac-5714-4ca7-926a-60b4935a2ebb"/>
+    <PID name="agregation_and_composition" mc="Standard.Package" uid="d6503afc-d349-42df-b491-554cb970eaa6"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[cat.ilg.business.pizzeria.entities]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Client" mc="Standard.Class" uid="c4cd8618-ba53-4845-b314-c071bd762017"/>
+        <COMPID name="Province" mc="Standard.Class" uid="a8e4430f-75dd-446b-a0d8-c11dfda61e81"/>
+        <COMPID name="City" mc="Standard.Class" uid="d313a489-2d54-43db-9845-19e7029f2c6f"/>
+        <COMPID name="Order" mc="Standard.Class" uid="386d067d-690f-47fd-ac53-ed6835a7c579"/>
+        <COMPID name="Product" mc="Standard.Class" uid="7a63d5e4-82ef-4dd0-b65b-cdd7dba6a460"/>
+        <COMPID name="Category" mc="Standard.Class" uid="03859374-340b-4f72-9910-ca1ef143e4e2"/>
+        <COMPID name="DeliveryDriver" mc="Standard.Class" uid="12da7ae2-a17e-4a42-8961-5c3f2213b46e"/>
+        <COMPID name="Store" mc="Standard.Class" uid="47c44797-266a-42f8-88b9-7cb121846c73"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

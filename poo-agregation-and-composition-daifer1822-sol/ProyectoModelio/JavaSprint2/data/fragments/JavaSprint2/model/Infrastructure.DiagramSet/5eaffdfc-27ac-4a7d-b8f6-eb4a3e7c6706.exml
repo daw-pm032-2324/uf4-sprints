@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="JavaSprint2" version="4">
+  <OBJECT>
+    <ID name="JavaSprint2" mc="Infrastructure.DiagramSet" uid="5eaffdfc-27ac-4a7d-b8f6-eb4a3e7c6706"/>
+    <PID name="JavaSprint2" mc="Standard.Project" uid="71342d3a-a246-4ec4-8c0d-b0798c06c7dd"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[JavaSprint2]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

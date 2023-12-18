@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="cat.ilg.business.youtube.entities" version="4">
+  <OBJECT>
+    <ID name="cat.ilg.business.youtube.entities" mc="Standard.Package" uid="298e724d-e651-4013-be4a-61ecc523b590"/>
+    <PID name="agregation_and_composition" mc="Standard.Package" uid="d6503afc-d349-42df-b491-554cb970eaa6"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[cat.ilg.business.youtube.entities]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Chanel" mc="Standard.Class" uid="48cec19a-fbc7-410d-90fe-e6fc96a796c9"/>
+        <COMPID name="Comment" mc="Standard.Class" uid="bb75b796-bea7-48ba-99ff-4594d5bfe968"/>
+        <COMPID name="CommentLike" mc="Standard.Class" uid="08bf2096-d5d8-4187-a6c2-8cbf205ee3fc"/>
+        <COMPID name="Label" mc="Standard.Class" uid="66ba8a28-3f5d-47a7-b15a-1fced4d70898"/>
+        <COMPID name="Like" mc="Standard.Class" uid="4adcaedb-5c27-49b0-a100-750e616bed7d"/>
+        <COMPID name="Playlist" mc="Standard.Class" uid="0c380e6c-acd7-4110-b423-426ea812471c"/>
+        <COMPID name="Post" mc="Standard.Class" uid="f6e87f1a-951c-4cc0-bdb5-2cf0d7de7626"/>
+        <COMPID name="User" mc="Standard.Class" uid="d95204d6-dfe3-4430-ab31-1231738a5e04"/>
+        <COMPID name="Video" mc="Standard.Class" uid="47954ef1-18ad-4efc-936c-096af0949ddd"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

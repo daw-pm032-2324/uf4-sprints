@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="cat.ilg.business.youtube.entities" version="4">
+  <OBJECT>
+    <ID name="cat.ilg.business.youtube.entities" mc="Standard.Package" uid="c17a85f4-bbda-4b3a-a0db-5e1f824e4ed1"/>
+    <PID name="javasprint2" mc="Standard.Package" uid="d89ec1f0-fa97-44be-85c7-911266abb88b"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[cat.ilg.business.youtube.entities]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="User" mc="Standard.Class" uid="0fe125f6-33c9-47ae-bc46-dac25640547c"/>
+        <COMPID name="Chanel" mc="Standard.Class" uid="984fcf0e-df3f-4e38-b23a-fedec4079ff4"/>
+        <COMPID name="ChanelSubscribers" mc="Standard.Class" uid="2519e407-d4d3-4ef6-8bf2-b83224c354c3"/>
+        <COMPID name="VideoRate" mc="Standard.Class" uid="3d54b782-645b-4756-bbf9-6d7e5b8b5490"/>
+        <COMPID name="Video" mc="Standard.Class" uid="b4117737-3ed5-41ef-858d-5b4288a13652"/>
+        <COMPID name="StateVideo" mc="Standard.Class" uid="b9849859-d391-4664-92ac-cf1d18bae6f2"/>
+        <COMPID name="VideoLabel" mc="Standard.Class" uid="5c053682-7b1f-45ec-95a1-6465dcc67131"/>
+        <COMPID name="Label" mc="Standard.Class" uid="a4f95df3-fc94-4e16-997b-36bdf6a54eea"/>
+        <COMPID name="RateType" mc="Standard.Class" uid="35927bf6-e72a-4693-bc91-c3e0b955c149"/>
+        <COMPID name="Comment" mc="Standard.Class" uid="ea665724-682f-48df-b50b-bccfda47231b"/>
+        <COMPID name="CommentRate" mc="Standard.Class" uid="3658c176-f9ca-45bd-8c03-f098c921ffab"/>
+        <COMPID name="PlaylistVideo" mc="Standard.Class" uid="da4d3c05-73fc-454f-bf58-391fd71ef8c5"/>
+        <COMPID name="Playlist" mc="Standard.Class" uid="4917c30c-0c07-41c7-872c-8d4d5a9f3060"/>
+        <COMPID name="PlaylistState" mc="Standard.Class" uid="aeac7b31-2fd4-4c8f-9b67-57c829658d08"/>
+      </COMP>
+      <LINK relation="Extension">
+        <FOREIGNID name="JavaPackage" mc="Infrastructure.Stereotype" uid="01ec23a8-0000-0126-0000-000000000000"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="agregation_and_composition" version="4">
+  <OBJECT>
+    <ID name="agregation_and_composition" mc="Standard.Package" uid="d6503afc-d349-42df-b491-554cb970eaa6"/>
+    <PID name="agregation_and_composition" mc="Standard.Project" uid="f00a4f2d-579e-4da0-b043-1de92e930bc1"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[agregation_and_composition]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="cat.ilg.business.optica.entities" mc="Standard.Package" uid="530ed522-a731-4271-9e1f-251e09df50ed"/>
+        <COMPID name="cat.ilg.business.pizzeria.entities" mc="Standard.Package" uid="a308a0ac-5714-4ca7-926a-60b4935a2ebb"/>
+        <COMPID name="cat.ilg.business.youtube.entities" mc="Standard.Package" uid="298e724d-e651-4013-be4a-61ecc523b590"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="agregation_and_composition_UML" mc="Standard.ClassDiagram" uid="85604039-973d-4e21-a25c-3752ea7db3ce"/>
+        <COMPID name="cat.ilg.business.youtube.entities (DependencyDiagramTemplate)" mc="Standard.ClassDiagram" uid="a0dd4fb0-9284-4e51-b697-41b3bfa1bdb9"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
